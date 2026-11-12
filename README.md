@@ -4,10 +4,9 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 
 ## Fitur
 
-- **Skeleton ESP:** menampilkan kerangka model musuh. Jarak tampilan bisa diatur dari menu dalam game.
-- **No Recoil Zero:** mencoba menahan nilai recoil lokal di nol saat aktif.
-- **Chams:** memberi warna pada model musuh. Pilihan warna: merah, cyan, kuning, hijau, dan ungu.
-- **Siapkan otomatis:** setelah tombol **Siapkan** ditekan, ekstensi menyiapkan match berikutnya pada tab yang sama. Tombol **Batal** menghentikannya.
+- **Skeleton ESP:** 
+- **No Recoil Zero:** 
+- **Chams:**ngu.
 
 ## Cara pakai di komputer
 
@@ -19,6 +18,6 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 6. Masuk ke match. Setelah match berjalan, gunakan menu yang muncul di halaman game untuk menyalakan **Skeleton ESP**, **No Recoil Zero**, atau **Chams**. Semua fitur mulai dalam keadaan **OFF** setelah reload.
 7. Untuk mematikan persiapan otomatis, klik ikon ekstensi lalu tekan **Batal**.
 
-## Bisa dipakai di HP?
-
-**Belum untuk Brave di Android atau iPhone.** Paket ini adalah ekstensi Brave desktop dan memerlukan fitur ekstensi serta izin debugger. Nama PB Mobile mengacu pada game yang dituju, bukan berarti file ZIP ini dapat dipasang sebagai aplikasi HP. Gunakan Brave di komputer untuk versi ini.
+Cheat ini bersifat opensource 
+bebas untuk di edit atau ditambah fitur
+pakai dengan bijak
