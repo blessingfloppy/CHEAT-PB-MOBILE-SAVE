@@ -6,7 +6,7 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 
 - **Skeleton ESP:** 
 - **No Recoil Zero:** 
-- **Chams:**ngu.
+- **Chams**
 
 ## Cara pakai di komputer
 
@@ -18,6 +18,6 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 6. Masuk ke match. Setelah match berjalan, gunakan menu yang muncul di halaman game untuk menyalakan **Skeleton ESP**, **No Recoil Zero**, atau **Chams**. Semua fitur mulai dalam keadaan **OFF** setelah reload.
 7. Untuk mematikan persiapan otomatis, klik ikon ekstensi lalu tekan **Batal**.
 
-Cheat ini bersifat opensource 
-bebas untuk di edit atau ditambah fitur
-pakai dengan bijak
+#Cheat ini bersifat opensource 
+#bebas untuk di edit atau ditambah fitur
+#pakai dengan bijak
