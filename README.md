@@ -6,6 +6,7 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 
 - **Skeleton ESP:** 
 - **Chams**
+- **Lapisan anti-deteksi klien:** menggunakan mekanisme dari versi Brave Full untuk menahan laporan deteksi `acflag`.
 
 ## Cara pakai di komputer
 
