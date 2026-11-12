@@ -5,7 +5,6 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 ## Fitur
 
 - **Skeleton ESP:** 
-- **No Recoil Zero:** 
 - **Chams**
 
 ## Cara pakai di komputer
@@ -15,7 +14,7 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 3. Aktifkan **Developer mode**, klik **Load unpacked**, lalu pilih folder `pemburuhs-brave-skeleton-v4` hasil ekstrak. Pilih **foldernya**, bukan file ZIP.
 4. Buka `https://pbmobile.app/` di Brave. Jika ada ekstensi PemburuHS lain, nonaktifkan dulu agar tidak bentrok.
 5. Saat berada di lobby, klik ikon ekstensi **CHEAT PB MOBILE SAVE** dan tekan **Siapkan**. Tab akan dimuat ulang. Izinkan peringatan debugger dari Brave jika muncul.
-6. Masuk ke match. Setelah match berjalan, gunakan menu yang muncul di halaman game untuk menyalakan **Skeleton ESP**, **No Recoil Zero**, atau **Chams**. Semua fitur mulai dalam keadaan **OFF** setelah reload.
+6. Masuk ke match. Setelah match berjalan, gunakan menu yang muncul di halaman game untuk menyalakan **Skeleton ESP** atau **Chams**. Semua fitur mulai dalam keadaan **OFF** setelah reload.
 7. Untuk mematikan persiapan otomatis, klik ikon ekstensi lalu tekan **Batal**.
 
 #Cheat ini bersifat opensource 
