@@ -8,6 +8,8 @@ Ekstensi untuk memainkan PBMobile melalui **Brave di komputer**. Unduh ZIP, ekst
 - **Chams**
 - **anti-deteksi**
 
+Versi 0.6.3 mempertahankan sesi persiapan bundle setelah match pertama, sehingga match berikutnya tetap diproses tanpa menekan **Siapkan** lagi. Lapisan `acflag` di sisi browser tidak menjamin akun bebas dari deteksi server.
+
 ## Cara pakai di komputer
 
 1. Unduh `pemburuhs-brave-skeleton-v4.zip` dari repo ini, lalu **ekstrak ZIP**. Pastikan ada folder `pemburuhs-brave-skeleton-v4` yang berisi `manifest.json`.
