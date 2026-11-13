@@ -12,6 +12,8 @@ Versi 0.6.3 mempertahankan sesi persiapan bundle setelah match pertama, sehingga
 
 Versi 0.6.4 mengenali gate `window.G` pada bundle game terbaru yang berubah menjadi `!1&&(window.G=`.
 
+Versi 0.7.0 dibuat ulang dari kode Brave Full: `stealth.js` sama persis, preboot Full dipakai, alur worker Full dipakai dengan patch bundle terbatas pada akses visual `G`/`RND`, dan gambar Skeleton/Chams diambil dari implementasi Full. Paket tidak memuat skrip fitur lain. Deteksi server tetap mungkin terjadi dan belum diuji dalam match.
+
 ## Cara pakai di komputer
 
 1. Unduh `pemburuhs-brave-skeleton-v4.zip` dari repo ini, lalu **ekstrak ZIP**. Pastikan ada folder `pemburuhs-brave-skeleton-v4` yang berisi `manifest.json`.
